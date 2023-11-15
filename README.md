@@ -1,2 +1,2 @@
-# Shell_Scripts
-My Unix Shell Scripts
+# Generic Shell Scripts
+A collection of unrelated shell scripts
